@@ -50,3 +50,9 @@ section.hero .carousel-caption h5 {
   text-wrap: nowrap;
   font-weight: bolder;
 }
+
+section.hero .carousel-caption p{
+  width: 70%;
+  font-size: 1.3rem;
+  line-height: 2;
+}
